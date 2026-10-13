@@ -1,0 +1,15 @@
+{
+  "name": "novacasino",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NovaCasino : casino de démonstration en crédits fictifs",
+  "type": "commonjs",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "serve": "node server.js",
+    "images": "node tools/make-images.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.12"
+  }
+}

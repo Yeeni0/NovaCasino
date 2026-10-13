@@ -1,0 +1,20 @@
+{
+  "_aide": "Remplis ces champs puis relance : node tools/build.mjs. Laisse plausibleDomain vide pour ne pas activer la mesure de fréquentation.",
+  "siteUrl": "https://novacasino.eu",
+  "contactEmail": "",
+  "editor": {
+    "name": "Mattéo Laude",
+    "status": "",
+    "address": "",
+    "siret": "",
+    "director": "Mattéo Laude"
+  },
+  "host": {
+    "name": "GitHub, Inc. (GitHub Pages)",
+    "address": "88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis",
+    "contact": "https://support.github.com"
+  },
+  "analytics": {
+    "plausibleDomain": ""
+  }
+}
